@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{417699A9-300B-42CE-BED0-60020181A5BB}</ProjectGuid>
+    <ProjectGuid>{51CAA968-73D8-47B5-912F-2CF9D56E677D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Rob.Calc.BLL</RootNamespace>
